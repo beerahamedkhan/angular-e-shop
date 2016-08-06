@@ -43,3 +43,14 @@ https://blackrockdigital.github.io/startbootstrap-shop-homepage/#
 ## NPM
 - npm init
 - npm install
+
+## Week 1
+### Infrastructure Setup & Project Setup
+
+#### Installation
+- Node.js
+- MongoDb
+- Express
+- Anugular
+- Theme
+- Bootstrap
